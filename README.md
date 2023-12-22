@@ -1,0 +1,1 @@
+This is a dashboard based on the data of "Global superstore" in this dashboard the sales, profit and shipments are segmented and classified through various specturms of the markets around the world through different kinds of visualisation charts.
